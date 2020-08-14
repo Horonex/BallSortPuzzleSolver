@@ -1,0 +1,11 @@
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\bin\Debug\netcoreapp3.1\BallSortPuzzleSolver.exe
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\bin\Debug\netcoreapp3.1\BallSortPuzzleSolver.deps.json
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\bin\Debug\netcoreapp3.1\BallSortPuzzleSolver.runtimeconfig.json
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\bin\Debug\netcoreapp3.1\BallSortPuzzleSolver.runtimeconfig.dev.json
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\bin\Debug\netcoreapp3.1\BallSortPuzzleSolver.dll
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\bin\Debug\netcoreapp3.1\BallSortPuzzleSolver.pdb
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\obj\Debug\netcoreapp3.1\BallSortPuzzleSolver.csprojAssemblyReference.cache
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\obj\Debug\netcoreapp3.1\BallSortPuzzleSolver.AssemblyInfoInputs.cache
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\obj\Debug\netcoreapp3.1\BallSortPuzzleSolver.AssemblyInfo.cs
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\obj\Debug\netcoreapp3.1\BallSortPuzzleSolver.dll
+C:\Users\Adril\source\repos\BallSortPuzzleSolver\BallSortPuzzleSolver\obj\Debug\netcoreapp3.1\BallSortPuzzleSolver.pdb
